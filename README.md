@@ -25,4 +25,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Urubu_Card&icon=5&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📊 Status : 
+
+<p>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urubu-Card&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9"/>
+</p>
