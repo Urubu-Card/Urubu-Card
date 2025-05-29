@@ -5,7 +5,7 @@
 <h1> EDUARDO </h1>
 
 
- <p align ="center"
+
   
 # 💫 Sobre Mim:
 ### 👾Estudante de D.E.V no Senai<br>🐍 Python Em ascensão <br>🤝Aberto a ajuda ou melhora de códigos<br>⚡Urubu.
