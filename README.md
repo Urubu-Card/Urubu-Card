@@ -1,6 +1,6 @@
 <p align="center"
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=26&duration=4931&pause=1000&color=9100E98D&center=true&vCenter=true&width=441&lines=Welcome+To+My+Profile+!;Bem+Vindo+Ao+Meu+Perfil+!)](https://github.com/Urubu-Card)
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=26&duration=4931&pause=1000&color=FFFFFF&center=true&vCenter=true&width=441&lines=Welcome+To+My+Profile+!;Bem+Vindo+Ao+Meu+Perfil+!)](https://github.com/Urubu-Card)
 
 
 
