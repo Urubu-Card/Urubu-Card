@@ -9,7 +9,7 @@
 
   
 # 💫 Sobre Mim:
-### 👾Estudante de D.E.V no Senai<br>🐍 Python Em ascensão <br>🤝Aberto a ajuda ou melhora de códigos<br>
+### 👾Estudante de D.E.V no Senai<br>🐍 Python  <br>🤝Aberto a ajuda ou melhora de códigos<br>
 
 
 ## 🌐 Sociais:
