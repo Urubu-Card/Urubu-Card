@@ -43,7 +43,7 @@
 
 ###
 
-<h2 align="center">Hi, my name is Eduardo (Nickname: Urubu).</h2>
+<h2 align="center">Hi, my name is Eduardo! 👋</h2>
 
 ###
 
