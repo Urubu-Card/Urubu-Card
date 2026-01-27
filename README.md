@@ -43,7 +43,7 @@
 
 ###
 
-<h2 align="center">Hi, my name is Eduardo! 👋</h2>
+<h2 align="center">Hi, my name is Eduardo (Nickname: Urubu).</h2>
 
 ###
 
@@ -54,10 +54,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Urubu-Card&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-
 
 ###
 
